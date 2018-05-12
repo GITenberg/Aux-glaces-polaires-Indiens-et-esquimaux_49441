@@ -1,4 +1,8 @@
 _repo: Aux-glaces-polaires-Indiens-et-esquimaux_49441
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49441-h/images/cover.jpg
 creator:
   author:
     agent_name: Duchaussois, Pierre Jean Baptiste
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '45340'
     url: http://www.gutenberg.org/2009/agents/45340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49441#Aux-glaces-polaires-Indiens-et-esquimaux
 gutenberg_bookshelf:
 - FR Voyages et pays
 - FR Philosophie, Religion et Morale
